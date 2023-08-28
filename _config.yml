@@ -1,4 +1,4 @@
-theme: jeky ll-theme-hacker
+theme: jekyll-theme-hacker
 relative_links:
   enabled: true
   collections: true
